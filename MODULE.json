@@ -5,5 +5,11 @@
     ],
     "components": [],
     "config": [],
-    "tests": []
+    "tests": [],
+    "module_name": "LokiCheckout_Be",
+    "composer_name": "loki-checkout/magento2-be",
+    "sequence": [
+        "LokiCheckout_Core",
+        "Magento_Directory"
+    ]
 }
