@@ -1,7 +1,7 @@
 {
     "name": "loki-checkout/magento2-be",
     "version": "2.0.1",
-    "description": "Belgium settings for LokiCheckout",
+    "description": "Belgium settings",
     "keywords": [
         "loki-checkout",
         "loki-checkout-category-language"
