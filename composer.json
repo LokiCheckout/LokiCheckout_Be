@@ -16,7 +16,6 @@
     "require-dev": {
         "yireo/magento2-integration-test-helper": "~0.0"
     },
-    "suggest": [],
     "license": "OSL-3.0",
     "autoload": {
         "files": [
